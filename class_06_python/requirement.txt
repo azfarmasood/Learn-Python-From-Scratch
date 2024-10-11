@@ -1,0 +1,6 @@
+lxml
+numpy
+pandas
+mypy
+jupyter
+notebook
